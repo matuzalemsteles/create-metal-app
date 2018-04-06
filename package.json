@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "repository": "git@github.com:matuzalemsteles/create-metal-app.git",
+  "author": "Matuzalém Teles <matuzalemteles@gmail.com>",
+  "devDependencies": {
+    "lerna": "^2.10.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
